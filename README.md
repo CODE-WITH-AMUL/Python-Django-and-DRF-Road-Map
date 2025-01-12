@@ -173,6 +173,14 @@ This roadmap is designed to help beginners with no prior programming experience,
 
 ---
 
+## Social Media and Contact
+- **YouTube**: [Amul Sharma YouTube Channel](https://www.youtube.com/@Code-With-amul)
+- **LinkedIn**: [Amul Sharma LinkedIn Profile](https://www.linkedin.com/in/amul-sharma-882953323/)
+- **GitHub**: [Amul Sharma GitHub](https://github.com/CODE-WITH-AMUL)
+- **Instagram**: [Amul Sharma Twitter](https://www.instagram.com/amul.sharma.69/)
+
+---
+
 ## Weekly Action Plan
 1. Dedicate **2 hours daily** (or more) to learning and practicing.
 2. Spend **1 day per week** revising and building small projects.
